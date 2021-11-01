@@ -187,6 +187,10 @@ hr {
 		padding: 2px 16px;
 		display: block;
 	}
+	.container {
+		display: flex;
+		font-size: 15px;
+	}
 }
 
 @media screen and (max-width: 840px) {
@@ -197,10 +201,18 @@ hr {
 	header a {
 		padding: 10px;
 	}
+	.container {
+		display: flex;
+		font-size: 15px;
+	}
 }
 
 @media screen and (max-width: 445px) {
 	header a {
 		display: none;
+	}
+	.container {
+		display: flex;
+		font-size: 15px;
 	}
 }
