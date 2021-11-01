@@ -191,6 +191,14 @@ hr {
 		display: flex;
 		font-size: 15px;
 	}
+
+	#root {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		width: 80%;
+		font-size: 18px;
+	}
 }
 
 @media screen and (max-width: 840px) {
