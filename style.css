@@ -114,11 +114,11 @@ header a:hover::after {
 }
 
 #services-table .cell:nth-child(2) {
-	background: #ff8686;
+	background: #ffc5c5;
 }
 
 #services-table .cell:nth-child(3) {
-	background: #86ff90;
+	background: #c8eccb;
 }
 
 .row.header {
